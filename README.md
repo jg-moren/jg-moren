@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-https://github-readme-stats-eight-theta.vercel.app/api?username=jg-moren&theme=gotham&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jg-moren&theme=gotham&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true)
 
-https://github-readme-stats.vercel.app/api/pin/?username=jg-moren&repo=drive&theme=gotham
+![github stats](https://github-readme-stats.vercel.app/api/pin/?username=jg-moren&repo=drive&theme=gotham)
 
 
-https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jg-moren&layout=compact&theme=gotham
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jg-moren&layout=compact&theme=gotham)
 
 <!--
 **jg-moren/jg-moren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
